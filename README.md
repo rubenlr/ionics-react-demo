@@ -1,2 +1,2 @@
 # ionics-react-demo
-Learning ionics react demo
+My study code of ionics with react
